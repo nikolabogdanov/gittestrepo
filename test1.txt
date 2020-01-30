@@ -3,3 +3,4 @@ new line
 line 2
 hot fix 1
 hot fix 2
+new work in feature 1
